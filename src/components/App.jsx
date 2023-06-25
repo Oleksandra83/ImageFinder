@@ -4,6 +4,7 @@ import {ImageGallery} from "./ImageGallery/ImageGallery";
 import { ToastContainer, Slide, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { Layout } from "./Layout/Layout";
+import ScrollToTop from './ToTopScroll/ToTopScroll';
 import { notifyOptions } from "notify/notify";
 
 
@@ -36,6 +37,7 @@ export const App = () => {
 					page={page}
 					onLoadMore={handleLoadMore} />
 			</Layout>
+			<ScrollToTop />
 			<ToastContainer transition={Slide} draggablePercent={60} />
 		</>
 	);
