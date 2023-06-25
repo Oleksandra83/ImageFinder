@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-images/static/css/main.103583fc.css",
+    "main.js": "/goit-react-hw-04-images/static/js/main.ac4eb78f.js",
+    "static/media/tomjerry.png": "/goit-react-hw-04-images/static/media/tomjerry.5629d873dd427a30edb6.png",
+    "static/media/error.png": "/goit-react-hw-04-images/static/media/error.68a44fc62c9a227f8f40.png",
+    "index.html": "/goit-react-hw-04-images/index.html",
+    "main.103583fc.css.map": "/goit-react-hw-04-images/static/css/main.103583fc.css.map",
+    "main.ac4eb78f.js.map": "/goit-react-hw-04-images/static/js/main.ac4eb78f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.103583fc.css",
+    "static/js/main.ac4eb78f.js"
+  ]
+}
