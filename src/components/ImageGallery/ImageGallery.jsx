@@ -3,7 +3,6 @@ import { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import imagesAPI from 'services/getImages';
 import { ImageGallaryItem } from '../ImageGalleryItem/ImageGalleryItem';
-// import DefaultImg from 'assets/tjer.png';
 import { Loader } from '../Loader/Loader';
 import { List } from './ImageGallery.styled';
 import ImageError from '../ImageError/ImageError';
@@ -92,5 +91,5 @@ export const ImageGallery = ({ value, page, onLoadMore }) => {
 ImageGallery.propTypes = {
 	value: PropTypes.string.isRequired,
 	page: PropTypes.number.isRequired,
-	onLoadMope: PropTypes.func.isRequired,
+	onLoadMore: PropTypes.func.isRequired,
 };
