@@ -1,8 +1,8 @@
 {
-  "name": "image-finder",
+  "name": "goit-react-hw-04-images",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Oleksandra83.github.io/image-finder/",
+  "homepage": "https://Oleksandra83.github.io/goit-react-hw-04-images/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
